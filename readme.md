@@ -1,0 +1,1 @@
+A login app with only username and password form that only requests a JWT from the server  
